@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Sonuçları izliyor!"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
